@@ -1,4 +1,9 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Randy Pettus currently works as a Data Scientist/ Data Engineer on the Advanced Analytics team at Charter Communications and has experience applying analytics solutions across a variety of industries and applications. 
+
+### Eduction
+- Master of Science in Business Analytics: New York University Stern School of Business
+- MBA: University of Missouri
+- BS, Finace: University of Missouri
 
